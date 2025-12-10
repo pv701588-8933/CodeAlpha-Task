@@ -28,7 +28,7 @@ Author
 Priya
 CodeAlpha Internship – Data Analytics
 
-<h1>PROJECT 2. EDA [EXPLORATORY DATA ANALYSIS</h1>
+<h1>PROJECT 2. EDA [EXPLORATORY DATA ANALYSIS]</h1>
 
 <h1>Netflix Movies Dataset – Exploratory Data Analysis (EDA)</h1>
 <h2>Project Overview</h2>
@@ -104,3 +104,4 @@ Popularity is strongly tied to vote count
 Big-budget action franchises gain top popularity.
 
 These findings can help content creators, marketers, and streaming platforms make informed decisions.
+
